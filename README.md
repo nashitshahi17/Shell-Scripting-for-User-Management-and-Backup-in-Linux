@@ -43,7 +43,7 @@ A secure, timestamped backup automation tool.
 # 🛠️ Installation & Running the Scripts
 
 ### 1️⃣ Make scripts executable:
-chmod +x user_management.sh
+chmod +x user_management.sh <br>
 chmod +x backup.sh
 
 ### 2️⃣ Run with sudo:
