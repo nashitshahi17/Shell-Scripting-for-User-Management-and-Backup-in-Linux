@@ -47,7 +47,7 @@ chmod +x user_management.sh
 chmod +x backup.sh
 
 ### 2️⃣ Run with sudo:
-sudo ./user_management.sh
+sudo ./user_management.sh <br>
 sudo ./backup.sh
 
 ---
